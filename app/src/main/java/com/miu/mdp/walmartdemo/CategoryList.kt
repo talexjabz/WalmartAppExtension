@@ -20,7 +20,7 @@ class CategoryList : AppCompatActivity() {
                     Product(
                         "RGA Voyager 7 16GB Android Tablet",
                         35.00,
-                        "Black",
+                        "Black ",
                         itemId = "5551883493",
                         desc = "Another description here",
                         image = R.drawable.lcd
